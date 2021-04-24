@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f7cac9</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#969696</color>
+    <color name="cursorColor">#f7cac9</color>
+    <color name="nomalColor">#f7cac9</color>
+    <color name="testColor">#f7cac9</color>
+</resources>

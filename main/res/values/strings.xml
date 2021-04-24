@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WaitWait</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <color name="main_color">#f7cac9</color>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_sign_up1">SignUpActivity1</string>
+</resources>
